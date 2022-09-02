@@ -1,0 +1,7 @@
+1.How to upload on github using gitbash?
+= git init (initialize folder with .git)
+->touch .gitignore (creating .gitignore folder which contain files or folder that we don't need to push in github)
+->git add .(adding all files to staging area excluding .gitingnore)
+->git remote add origin git@github.com:vaibhavsinhbihola/Learn_Git.git
+->git commit -m "Initial commit"
+->git 

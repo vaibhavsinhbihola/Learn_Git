@@ -4,4 +4,4 @@
 ->git add .(adding all files to staging area excluding .gitingnore)
 ->git remote add origin git@github.com:vaibhavsinhbihola/Learn_Git.git
 ->git commit -m "Initial commit"
-->git 
+->git push -u origin master

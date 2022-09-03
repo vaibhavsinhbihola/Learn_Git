@@ -5,3 +5,16 @@
 ->git remote add origin git@github.com:vaibhavsinhbihola/Learn_Git.git
 ->git commit -m "Initial commit"
 ->git push -u origin master
+
+2.branch & merge commands?
+= git branch dev
+->git checkout dev
+->git checkout -b vaibhavsinh
+->git branch -d vaibhavsinh
+->git merge new
+
+3.some useful commands?
+= git version
+->git remote -v
+->git log(gives the log of commits)
+->git status
